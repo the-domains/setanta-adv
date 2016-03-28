@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Setanta ADV]]></title>
+        <description><![CDATA[Setanta ADV]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Mar 2016 16:59:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/deb3ff40-d988-4752-8ced-8f36caeb63e0.png">]]></description>
+            <link>undefined421643ae-d89d-4570-8db6-09ab25eb82e8/index.html</link>
+            <guid isPermaLink="false">421643ae-d89d-4570-8db6-09ab25eb82e8</guid>
+            <pubDate>Mon, 28 Mar 2016 16:59:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
