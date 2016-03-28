@@ -1,0 +1,28 @@
+name: Setanta ADV
+favicon: null
+layout_spectrum: 0.9487089647445828
+typography_spectrum: 0.08949504303745925
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8161616588477045
+  lightness: 0.15233681164681911
+  saturation: 0.7072342329192907
+  rhythmicContrast: 0.39185184333473444
+purpose: []
